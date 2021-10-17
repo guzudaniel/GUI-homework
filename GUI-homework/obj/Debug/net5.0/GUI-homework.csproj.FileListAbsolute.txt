@@ -1,0 +1,16 @@
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\bin\Debug\net5.0\GUI-homework.exe
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\bin\Debug\net5.0\GUI-homework.deps.json
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\bin\Debug\net5.0\GUI-homework.runtimeconfig.json
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\bin\Debug\net5.0\GUI-homework.runtimeconfig.dev.json
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\bin\Debug\net5.0\GUI-homework.dll
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\bin\Debug\net5.0\ref\GUI-homework.dll
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\bin\Debug\net5.0\GUI-homework.pdb
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.csproj.AssemblyReference.cache
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.AssemblyInfoInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.AssemblyInfo.cs
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.dll
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\ref\GUI-homework.dll
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.pdb
+D:\Universitate\Anul-III\Inginerie Software\Teme\GUI-homework\GUI-homework\obj\Debug\net5.0\GUI-homework.genruntimeconfig.cache
